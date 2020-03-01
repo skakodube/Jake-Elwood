@@ -1,4 +1,4 @@
-# Jake-Elwood
+# Jake&Elwood
 Responsive HTML/CSS site template
 
 
